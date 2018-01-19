@@ -6,9 +6,9 @@ You should take as fewer as possiable steps to filp all cards, And than you will
 Just click the box to filp the card, if two filped card are the same in look, it will be filped. else it will still in back.
 
 you will get star rating on the following conditions:
-3 Stars - less than 8 moves;
-2 Stars - less than 12 moves;
-1 Star - less than 20 moves;
+3 Stars - less than 9 moves;
+2 Stars - less than 13 moves;
+1 Star - less than 21 moves;
 
 A snackbar will also open on winning the game.
 
